@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm @Gopesh-K  
-🔹 **Cybersecurity Enthusiast | Network Security | Cryptography | CTF Player**  
+🔹 **Cybersecurity Enthusiast | Network Security | Cryptography | CTF Practitioner**  
 
 ---
 
